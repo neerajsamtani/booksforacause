@@ -1,4 +1,2 @@
-READ ME
-
 This folder contains the source code for the main website (www.swapthisbook.com) stored in public_html and the subdomain
 for the administrator to log in (admin.swapthisbook.com) stored in admin_html.
