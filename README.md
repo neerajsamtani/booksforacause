@@ -1,4 +1,4 @@
-# Books For A Cause
+# Books For A Cause (Formerly "Swap This Book")
 
 ## The Problem
 
@@ -12,7 +12,19 @@ After consultation, I suggested the creation of a website www.booksforacause.me,
 
 I made this computational solution in the form of a website because it would be easily accessible by all operating systems and I wouldn’t run into problems such as compatibility issues or multiple versions for Windows, Apple, and Android. A lot more people would be able to use the software if it were a website rather than a mobile or desktop application.
 
-## Success Criteria
+## Screenshots
+
+### Landing Page
+![](images/landing_page_screenshot.png)
+
+### Buyer Page
+![](images/buyer_screenshot.png)
+
+### Messaging Page
+![](images/messages_screenshot.png)
+
+
+## Features
 * Students can add books with relevant details and edit them later if necessary.
 *	Students can easily search for books with filters such as ‘grade’ and ‘subject’.
 *	The School librarian can monitor the books being added and approve, reject, or comment on the them. 
